@@ -1,4 +1,4 @@
-Welcome to we're Compadres Geimes!
+Welcome to Compadres Geimes!
 
 Who We Are
 Hey there! We're a passionate game development studio hailing from the vibrant and beautiful country of Mexico. 
